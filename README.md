@@ -1,0 +1,2 @@
+# Code-happiness
+Some examples
